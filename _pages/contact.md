@@ -5,13 +5,13 @@ permalink: "/contact.html"
 
 ### 您可以寫信件給我們，或者直接線上填寫表單，我們將在最短時間回覆您，謝謝！
 
-<p></p>
+<br><br>
 
 ### 聯絡我們的資料
  - Email：jenfu.developer@gmail.com
  - Tel：0922-013-171
 
-<p></p>
+<br><br>
 
 ### 聯絡我們的表單
 
@@ -19,7 +19,7 @@ permalink: "/contact.html"
 style='overflow:hidden;border:#ddd 1px solid;' 
 allowTransparency='true' frameborder='0'> </iframe>
 
-<p></p>
+<br><br>
 
 ### 我們的地址
 
