@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 這是我第一次用 MarkDown 寫的文章
-author: Patrich.Her
+author: patrick
 categories: [一般事項]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
 ---
