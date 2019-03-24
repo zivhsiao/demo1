@@ -3,7 +3,7 @@ layout: post
 title: "如何可以取得 LINE 的 ID"
 author: patrick
 categories: [LINE]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_api/截圖 2019-03-11 下午1.45.56.png"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_api/line_login.png"  
 tag: featured
 ---
 

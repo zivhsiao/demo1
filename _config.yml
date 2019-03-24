@@ -1,7 +1,7 @@
 # Site
 name: 'Mundana'
 description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
-logo: 'assets/images/logo.png'
+logo: 'https://avatars2.githubusercontent.com/u/1700557'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/demo1'
 disqus: 'bu-luo-ge'
