@@ -22,7 +22,7 @@ authors:
     patrick:
       name:           Patrick Her
       site:           https://www.prgpress.com
-      avatar:         /assets/images/avatar3.png
+      avatar:         assets/images/avatar3.png
       bio:            "Hi，我是一名 PHP 工程師，以 Laravel 以及 Codeigniter 的框架爲主"
       email:          heren@prgpress.com
       twitter:        https://twitter.com/zivhsiao
