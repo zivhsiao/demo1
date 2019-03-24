@@ -12,7 +12,7 @@ LINE Bot 的剛開始要做什麼，因爲有的沒有接觸過 LINE 機器人�
 <!-- more -->
 
 ### 首先，進入 LINE@ 的開發者界面
-![截圖 2019-03-11 下午1.45.56](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_api/截圖 2019-03-11 下午1.45.56.png)
+![截圖 2019-03-11 下午1.45.56](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_api/line_login.png)
  
 ### 進入它的 Messaging settings
 1. 進入 Provider List 的項目，若沒有新增即可
