@@ -3,17 +3,23 @@ title: "聯絡我們"
 permalink: "/contact.html"
 ---
 
-## 您可以寫信件給我們，或者直接線上填寫表單，我們將在最短時間回覆您，謝謝！
+### 您可以寫信件給我們，或者直接線上填寫表單，我們將在最短時間回覆您，謝謝！
+
+<p></p>
 
 ### 聯絡我們的資料
  - Email：jenfu.developer@gmail.com
  - Tel：0922-013-171
+
+<p></p>
 
 ### 聯絡我們的表單
 
 <iframe width='100%' height='1250' src='https://www.surveycake.com/s/ONKV3' 
 style='overflow:hidden;border:#ddd 1px solid;' 
 allowTransparency='true' frameborder='0'> </iframe>
+
+<p></p>
 
 ### 我們的地址
 
