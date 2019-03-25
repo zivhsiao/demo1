@@ -3,7 +3,7 @@ layout: post
 title: "比較在 Mac 下寫 MarkDown 的工具"
 author: patrick
 categories: [Mac, Macbook]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/php/php1.jpg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/markdown/markdown-2.jpg"  
 ---
 
 
