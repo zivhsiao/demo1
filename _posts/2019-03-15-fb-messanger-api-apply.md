@@ -3,7 +3,7 @@ layout: post
 title: "FB Messager API 的申請"
 author: patrick
 categories: [Facebook]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/facebook_api/facebook-messenger-bots-770x384.jpg"  
 tag: featured
 ---
 
