@@ -5,11 +5,21 @@ layout: default
     <h3 class="font-weight-bold spanborder"><span>{{page.title}}</span></h3>
     <div class="row">
         <div class="col-md-8">
-            {% if page.image %}
-            <img class="card-img-top mb-5 shadow-lg"
-                src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}"
-                alt="{{ page.title }}">
-            {% endif %}
+            
+            <a href="http://tc.rwdcoman.com/">
+                <img class="card-img-top mb-5 shadow-lg"
+                src="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_3.jpg"
+                alt="統成蜂巢應用科技">
+                <h3>統成蜂巢應用科技</h3>
+            </a>
+            <br><br>
+            <a href="http://jpturbo.com">
+                <img class="card-img-top mb-5 shadow-lg"
+                src="https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/image_2.jpg"
+                alt="JPTurbo">
+                <h3>JPTurbo</h3>
+            </a>
+            <br><br> 
             <div class="page-content">
                 {{ content }}
                 <!-- Comments -->
