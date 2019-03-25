@@ -4,6 +4,7 @@ title: "LINE@ 的機器人，實作天氣預報"
 author: patrick
 categories: [LINE]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_bot/0509-LINE-BOT.jpg"  
+tag: featured
 ---
 
 實作了 LINE 的機器人，用途是天氣預報，你可以問它「天氣」、「新竹市的天氣」一系列的問題

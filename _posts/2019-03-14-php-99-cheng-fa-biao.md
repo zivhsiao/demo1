@@ -4,7 +4,6 @@ title: "PHP 的 99 乘法表"
 author: patrick
 categories: [PHP]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
-tag: featured
 ---
 
 這是前不久，爲了證明我的 codeing 實力，就專門寫 99 乘法表
