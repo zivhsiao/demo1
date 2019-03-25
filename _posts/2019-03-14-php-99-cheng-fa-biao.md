@@ -8,7 +8,6 @@ image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/
 
 這是前不久，爲了證明我的 codeing 實力，就專門寫 99 乘法表
 
-<!-- more -->
 
 直接就寫吧
 
