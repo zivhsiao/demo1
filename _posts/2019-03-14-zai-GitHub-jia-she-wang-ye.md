@@ -3,7 +3,7 @@ layout: post
 title: "在 GitHub 架設網頁"
 author: patrick
 categories: [網頁]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/milwaukee_1920x1278.jpg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/github-pages.png"  
 tag: featured
 ---
 
