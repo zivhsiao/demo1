@@ -8,8 +8,8 @@ permalink: "/contact.html"
 <br><br>
 
 ### 聯絡我們的資料
- - Email：heren@prgpress.com
- - Tel：0922-013-171
+ - <i class="fa fa-phone" aria-hidden="true"></i> 0922-013-171
+ - <i class="fa fa-envelope" aria-hidden="true"></i> heren@prgpress.com
 
 <br><br>
 
