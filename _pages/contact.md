@@ -8,7 +8,7 @@ permalink: "/contact.html"
 <br><br>
 
 ### 聯絡我們的資料
- - Email：jenfu.developer@gmail.com
+ - Email：heren@prgpress.com
  - Tel：0922-013-171
 
 <br><br>
