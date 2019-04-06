@@ -3,7 +3,7 @@ layout: post
 title: "Google Map 手機版本有個好玩的地方，就是「貪吃蛇」"
 author: patrick
 categories: [Google Map]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/google_map/IMG_2314.png"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/google_map/Google_Map.png"  
 ---
 
 Google Map 最近發現手機版本多了一個「貪吃蛇」，世界主要大城市都有列出來，這是打發時間的好東西啊！ 
