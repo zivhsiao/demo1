@@ -41,7 +41,9 @@ heroku login
 
 #### 這部分要懂得 git 的運作
 
-因爲是 Laravel，當大家懂得 composer 的做法
+因爲是 Laravel，就當大家對於 composer 是做什麼的
+
+如果不是很清楚，請參考 [官方網站](https://getcomposer.org/)
 
 所以直接建立它的專案，這是全新的 Laravel 的做法，必須要再 git init 之前就一定先建立起來，否則會建立不起來
 
