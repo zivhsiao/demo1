@@ -36,7 +36,7 @@ Heroku 的部署流程異常簡單。只需要將源碼加入到 Git 中即可�
 heroku login
 ```
 
-![Heroku 登入的畫面]()
+![Heroku 登入的畫面](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/heroku/截圖_2019-04-13_上午9.50.16.png)
 
 
 #### 這部分要懂得 git 的運作
