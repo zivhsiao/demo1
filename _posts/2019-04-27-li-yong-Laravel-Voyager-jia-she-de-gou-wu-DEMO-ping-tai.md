@@ -157,3 +157,5 @@ Price: TWD {{ round($product->price)}} <br>
 
 
 這樣在結賬的畫面就很正常了，完全符合臺灣的口味了
+
+下次再寫一篇 Blog 吧
