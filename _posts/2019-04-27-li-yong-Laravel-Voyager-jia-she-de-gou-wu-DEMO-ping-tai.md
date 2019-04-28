@@ -4,6 +4,7 @@ title: "利用 Laravel + Voyager 架設的購物 DEMO 平臺"
 author: patrick
 categories: [Heroku]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/voyager_1.png"  
+tag: featured
 ---
 
 利用 Laravel 以及 Voyager 來架設的購物 DEMO 平臺，因爲 Laravel 的部分是 Andre Madarang 寫出來的，所以暫時保留原先的樣子
