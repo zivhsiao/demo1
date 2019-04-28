@@ -155,7 +155,42 @@ Price: TWD {{ round($product->price)}} <br>
 
 ![composer install](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/Laravel_Ecommerce_Backbeat_Go_810.gif)
 
-
 這樣在結賬的畫面就很正常了，完全符合臺灣的口味了
+
+###這是結賬的測試畫面
+
+可以看出來，結賬雖然是用臺幣，他會依照匯率換算的美金
+
+![composer install](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/strip_dashboard.png)
+
+### Voyager 的後端
+
+前面都是已前臺爲主，現在聊一下後端
+
+#### 登入畫面
+
+可以輸入下面的登入的 E-mail，Password
+
+![admin](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/web_admin.png)
+
+登入之後的畫面
+
+![admin](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/voyager_login.png)
+
+從 Products 新增一個項目
+
+![backbeat_505](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/products_backbeat_505.png)
+
+這樣就完成了
+
+#### 後端的實際操作的畫面
+
+![admin](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/Admin-Voyager.gif)
+
+#### 直接訂購的操作畫面
+
+![admin](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/laravel_ecommerce/Laravel-Ecommerce-Example.gif)
+
+這樣就完成了，還算簡單吧！
 
 下次再寫一篇 Blog 吧
