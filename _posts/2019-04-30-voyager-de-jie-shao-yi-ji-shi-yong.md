@@ -3,7 +3,7 @@ layout: post
 title: "Voyager 的介紹以及使用 (一)"
 author: patrick
 categories: [Laravel]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/voyager/laravel-voyager.jpeg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/voyager/voyager.jpeg"  
 tag: featured
 ---
 
