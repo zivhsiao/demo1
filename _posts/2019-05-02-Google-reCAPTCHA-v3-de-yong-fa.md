@@ -37,7 +37,7 @@ reCAPTCHA v3 的版本與過往 reCAPTCHA v2 最大的不同點，在於網站�
 
 ```
 $captcha = $_POST['recaptcha_response'];
-$secretKey = $cclogin_google_secret_v3;
+$secretKey = '複製前面的密鑰';
 
 $url = 'https://www.google.com/recaptcha/api/siteverify?secret=' . urlencode($secretKey) . '&response=' . urlencode($captcha);
 $response = file_get_contents($url);
