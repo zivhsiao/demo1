@@ -4,7 +4,6 @@ title: "在 GitHub 架設網頁"
 author: patrick
 categories: [網頁]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/github-pages.png"  
-tag: featured
 ---
 
 GitHub 是一個讓 Git 使用的版本控制的代管服務公司 
