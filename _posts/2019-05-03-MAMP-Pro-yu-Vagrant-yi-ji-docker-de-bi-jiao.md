@@ -2,7 +2,7 @@
 layout: post
 title: "MAMP Pro 與 Vagrant 以及 docker 的比較"
 author: patrick
-categories: [Laravel]
+categories: [開發工具]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/mamp_vagrant_docker/vagrant-docker-mamp.png"  
 tag: featured
 ---
