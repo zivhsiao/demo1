@@ -54,6 +54,19 @@ if ($responseKeys['score'] >= 0.5) {
 
 這樣是不是更簡單了
 
+### 如何知道 Google reCAPTCHA v3 在正常運作？
+
+直接看後端就可以知道它有沒有實際的運作，以底下的圖來看就可以看出左邊是實際有多少人使用它，以及圖案顯示 7 天的使用狀況
+
+在它的右邊是平均達到多少分數，以及它的人次，表示所有人都是 0.9 的分數，所以全部屬於真人在登入
+
+因爲裏面沒有可疑的流量，所以沒有可以看出來這部分的流量
+
+![google_recaptcha_v3](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/google_v3/google_recaptcha_v3.png)
+
+只是它依然是要有點防護，譬如 SESSION['google_code'] 記住某個值，只要與前端不符合的就直接讓它退出
+這樣至少先讓自己的 server 過濾，而不是只有單純靠它的 server 爲主
+
 ### 驗證碼是要使用 v2 還是 v3 ？
 
 reCAPTCHA v3 是一項全新的技術，不排除 v3 的方法，但是絕大部分的人而言 reCAPTCHA v2 還是網站保護的首選，它還是看得到保護的機制是看得到的，對網站運作而言也比較穩定，如果有任何關於 reCAPTCHA 網站驗證方面的問題，也歡迎在下方留言討論吧！
