@@ -26,7 +26,6 @@ tag: featured
 這是從 wiki 截取下來的一段話
 
 > Vagrant 是一款用於構建及配置虛擬開發環境的軟體，基於Ruby,主要以命令行的方式運行。
-
 > 主要使用 Oracle 的開源 VirtualBox 虛擬化系統，與 Chef，Salt，Puppet 等環境配置管理軟體搭配使用， 可以實行快速虛擬開發環境的構建。
 
 從這裏不難看出它是用來做什麼的，直接告訴你它是利用虛擬機來打造一個屬於自己的開發機，它與虛擬機的差異在於下指令就可以完成，不用靠使用者界面去完成它
@@ -45,7 +44,6 @@ tag: featured
 docker wiki 有一段話
 
 > Docker 是一個開放原始碼軟體專案，讓應用程式部署在軟體貨櫃下的工作可以自動化進行，藉此在 Linux 作業系統上，提供一個額外的軟體抽象層，以及作業系統層虛擬化的自動管理機制。
-
 > Docker 利用Linux核心中的資源分離機制，例如cgroups，以及Linux 核心命名空間（namespaces），來建立獨立的容器（containers）。這可以在單一 Linux 實體下運作，避免啟動一個虛擬機器造成的額外負擔[2]。Linux 核心對命名空間的支援完全隔離了工作環境中應用程式的視野，包括行程樹、網路、用戶 ID 與掛載檔案系統，而核心的 cgroup 提供資源隔離，包括CPU、記憶體、block I/O與網路。從 0.9 版本起，Dockers 在使用抽象虛擬是經由 libvirt 的 LXC 與 systemd - nspawn 提供介面的基礎上，開始包括libcontainer 函式庫做為以自己的方式開始直接使用由 Linux 核心提供的虛擬化的設施，
 
 說的白話一點，就是它只有底層在跑，之後有個 docker-composer 可以讓 docker 跑得更加容易，譬如加入一個 web 就寫一段程式就可以跑起來，加入 db 就要給它一個 db 的宣告就可以了，這些統統可以在  docker-composer 裏面可以實現，不用管他怎麼跑的，只要透過 docker 以及 docker-composer 就可以了
