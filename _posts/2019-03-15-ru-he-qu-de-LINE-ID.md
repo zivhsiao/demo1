@@ -4,7 +4,6 @@ title: "如何可以取得 LINE 的 ID"
 author: patrick
 categories: [LINE]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_api/line_login.png"  
-tag: featured
 ---
 
 LINE Bot 的剛開始要做什麼，因爲有的沒有接觸過 LINE 機器人，所以寫了這篇文章

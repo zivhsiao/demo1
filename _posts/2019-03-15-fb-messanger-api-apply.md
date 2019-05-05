@@ -4,7 +4,6 @@ title: "FB Messager API 的申請"
 author: patrick
 categories: [Facebook]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/facebook_api/facebook-messenger-bots-770x384.jpg"  
-tag: featured
 ---
 
 今天說明 FB Messager API，主要是你要有粉絲團，然後 Facebook Developer 建立一個應用程式就可以了
