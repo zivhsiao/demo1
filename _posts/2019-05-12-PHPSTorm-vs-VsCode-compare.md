@@ -28,7 +28,9 @@ image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/
 這裏就不在多說怎樣可以建置以及 Extension，如果要知道如何去安裝以及推薦的套件，請參考以下的連結
 
 [安裝 Visual Studio Code 與擴充套件設定](https://ithelp.ithome.com.tw/articles/10191357)
+
 [小克的 Visual Studio Code 必裝擴充套件（Extensions）私藏推薦](https://blog.goodjack.tw/2018/03/visual-studio-code-extensions.html)
+
 [推薦的 VS Code Extensions 整理(2019/2月更新)](https://medium.com/itsoktomakemistakes/vs-code-extensions-a453e5d1e926)
 
 
