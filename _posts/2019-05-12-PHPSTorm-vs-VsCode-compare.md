@@ -3,7 +3,7 @@ layout: post
 title: "PHPStorm 與 VSCode 比較"
 author: patrick
 categories: [開發工具]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/phpstorm_vscode/phpstorm-vscode.png"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/phpstorm_vscode/phpstorm-vscode.jpg"  
 ---
 
 目前使用的是 PHPStorm，因爲它的功能強大，一般的編輯器是比不上的，尤其它支援 FTP, SFTP 上傳等，還有支援 Git，也因爲如此而選擇它的原因
