@@ -10,7 +10,7 @@ Heroku 是一個支援多種程式語言的雲平台即服務。在 2010 年被 
 
 這是針對 Heroku 的說明
 
-Heroku 免費使用是有限制，它的限制是必需要運行 30 分鐘，就要睡眠一次，不過可以透過 [UPTimeRobot](https://uptimerobot.com) 去解決，不過時間是 500hr，只有信用卡註冊可以 1000hr，如果要用到 2 台 server 就可能會用光光，這一點需要注意。
+Heroku 免費使用是有限制，它的限制是必需要運行 30 分鐘，就要睡眠一次，不過可以透過 [UPTimeRobot](https://uptimerobot.com) 去解決，不過如果沒有信用卡的話，使用的免費時間是 500hr，註冊信用卡後可以達到 1000hr，如果要用到 2 台以上的 server 就可能會不夠用，這一點需要注意。
 
 ### Heroku 的 PHP 額外安裝 Extension
 
