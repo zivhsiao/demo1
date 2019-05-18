@@ -4,6 +4,7 @@ title: "使用 node.js 在 Heroku 架設 LINE@ 聊天機器人"
 author: patrick
 categories: [Heroku]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/line_bot/heroku-node-1.png"  
+tag: featured
 ---
 
 Node.js 是一個能夠在伺服器端運行 JavaScript 的開放原始碼、跨平台 JavaScript 執行環境。它有自己的一系列的模組，所以可以讓他脫離 apache2、nginx 或 IIS，可以獨立運作，而且運行的效能是非常強
