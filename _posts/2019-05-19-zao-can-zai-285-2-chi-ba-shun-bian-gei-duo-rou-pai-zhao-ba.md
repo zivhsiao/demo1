@@ -10,7 +10,13 @@ image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/
 
 看了時鐘，是 9:40，所以時間剛好可以吃個早午餐，來去 285-2 早餐鋪 [285-2早餐鋪](https://www.google.com.tw/maps/place/285-2%E6%97%A9%E9%A4%90%E8%88%96/@24.8348043,120.9457378,17z/data=!4m12!1m6!3m5!1s0x346834569dfc49db:0x87bcfdd1f8df1b3b!2zMjg1LTLml6nppJDoiJY!8m2!3d24.8348043!4d120.9457378!3m4!1s0x346834569dfc49db:0x87bcfdd1f8df1b3b!8m2!3d24.8348043!4d120.9457378?hl=zh-TW)
 
+這是從 Google 截取下來的圖片
+
 ![285-2 早餐鋪](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/285-2.png)
+
+![](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/breakfast.png)
+
+### 點了一份早餐
 
 點了一份總匯，一杯紅茶，坐在裏面想了一下主題是要寫些什麼
 
