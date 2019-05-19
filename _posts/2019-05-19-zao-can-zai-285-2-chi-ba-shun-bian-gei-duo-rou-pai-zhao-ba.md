@@ -12,7 +12,7 @@ image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/
 
 這是從 Google 截取下來的圖片
 
-![285-2 早餐鋪](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/285-2.png)
+![285-2 早餐鋪](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/285-2-1.png)
 
 ![](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/breakfast.png)
 
