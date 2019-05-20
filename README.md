@@ -49,3 +49,21 @@ Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under M
 ### Live Demo
 
 [Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+
+```
+post.html
+<!-- Author Box -->
+                {% if page.author %}				
+				<div class="row mt-5">
+					<div class="col-md-2 align-self-center">
+                         {% if author.avatar %}
+                        <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
+                        {% endif %} 
+					</div>
+					<div class="col-md-10">		
+                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+						{{ author.bio }}					
+					</div>
+				</div>				
+                {% endif %}
+```
