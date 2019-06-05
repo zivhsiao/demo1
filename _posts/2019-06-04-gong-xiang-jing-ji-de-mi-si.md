@@ -2,7 +2,7 @@
 layout: post
 title: "共享經濟的迷思"
 author: patrick
-categories: [PHP 工程師的日常]
+categories: [深思的兩三件事]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/26onmoney1-master1050.jpg"  
 ---
 
