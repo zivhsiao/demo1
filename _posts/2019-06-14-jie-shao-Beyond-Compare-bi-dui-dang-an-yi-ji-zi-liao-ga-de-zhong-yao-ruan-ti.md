@@ -3,14 +3,6 @@ layout: post
 title: "介紹 Beyond Compare 比對檔案以及資料夾的重要軟體"
 author: patrick
 categories: [軟體試用]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/hole-io_main.png"  
----
-
----
-layout: post
-title: "介紹 Beyond Compare 比對檔案以及資料夾的重要軟體"
-author: patrick
-categories: [軟體試用]
 image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/beyond_compare_5.png"  
 ---
 
@@ -39,4 +31,5 @@ image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/
 ![](https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/daily/beyond_compare_1.png)
 
 這個軟體是讓使用者可以去比對兩個檔案的不同之處，然後作出修改就完成了
+
 
