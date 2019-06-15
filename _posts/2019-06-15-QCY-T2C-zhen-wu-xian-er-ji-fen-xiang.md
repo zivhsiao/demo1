@@ -3,7 +3,7 @@ layout: post
 title: "QCY T2C 真無線耳機分享"
 author: patrick
 categories: [耳機分享]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/qcy/qcy_t2c_4.jpg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/qcy/qcy_t2c_6.jpg"  
 ---
 
 這次是我剛剛入手的 QCY T2C 真無線耳機
