@@ -3,7 +3,7 @@ layout: post
 title: "Life n Soul T200 真無線藍牙耳機介紹"
 author: patrick
 categories: [耳機分享]
-image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/t200/t200_05.jpg"  
+image: "https://raw.githubusercontent.com/zivhsiao/repo-picture-1/master/images/t200/t200-05.jpg"  
 ---
 
 今天有來介紹 Life n Soul 真無線藍牙耳機
